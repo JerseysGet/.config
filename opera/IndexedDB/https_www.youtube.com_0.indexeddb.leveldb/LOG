@@ -1,0 +1,6 @@
+2023/08/06-13:00:54.749 3ca38 Creating DB /home/Faisal/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/08/06-13:00:54.756 3ca38 Reusing MANIFEST /home/Faisal/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-13:00:58.372 4327f Level-0 table #5: started
+2023/08/06-13:00:58.377 4327f Level-0 table #5: 7374 bytes OK
+2023/08/06-13:00:58.381 4327f Delete type=0 #3
+2023/08/06-13:00:58.381 4327f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
